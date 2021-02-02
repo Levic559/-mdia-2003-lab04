@@ -16,10 +16,6 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -39,10 +35,6 @@ html {
   background: #b3d4fc;
   text-shadow: none;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
 /*
  * A better looking default horizontal rule
  */
@@ -100,7 +92,6 @@ textarea {
   align-content: center; */
   align-self: center;
 }
-<<<<<<< HEAD
 .flexplace{
   display: flex;
   flex-direction: column;
@@ -113,9 +104,6 @@ textarea {
   align-items: flex-start;
   justify-content: flex-start;
 }
-=======
-
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
 /*small screen*/
 @media only screen and (max-width: 39.9375em) {
   .ads,.fortablet, .mobile{
@@ -147,10 +135,7 @@ textarea {
     max-width: 85rem;
     margin: 0 auto;
   }
-<<<<<<< HEAD
   
-=======
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
   .m-col-2 {
     grid-template-columns: 1fr 1fr;
   }
@@ -177,7 +162,6 @@ textarea {
     height: 20em;
   }
 }
-<<<<<<< HEAD
 /*large and up */
 @media only screen and (min-width: 64em){
   .row {
@@ -187,12 +171,6 @@ textarea {
     max-width: 85rem;
     margin: 0 auto;
   }
-=======
-
-
-/*large and up */
-@media only screen and (min-width: 64em){
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
   .l-col-2 {
     grid-template-columns: 1fr 1fr;
   }
@@ -204,18 +182,11 @@ textarea {
   }
   .l-col-5 {
     grid-template-columns: repeat(5, 1fr);
-<<<<<<< HEAD
     height: 100%;
   }
   .l-col-6 {
     grid-template-columns: repeat(6, 1fr);
     
-=======
-  }
-  .l-col-6 {
-    grid-template-columns: repeat(6, 1fr);
-    height: 100%;
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
   }
   .fortablet{
     display: none;
@@ -227,20 +198,10 @@ textarea {
     height: 20em;
   }
 }
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
 footer .column{
     height: 10em;
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -433,30 +394,22 @@ section {
   margin: 0.5rem;
  
 }
-<<<<<<< HEAD
 .s-column {
 
   margin: 0.5rem;
  
 }
-=======
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
 .column--nopadding img,
 .column img {
   width: 100%;
 }
 .row {
   display: grid;
-<<<<<<< HEAD
   width: 85vw;
-=======
-  width: 86vw;
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
   min-width: 60rem;
   max-width: 85rem;
   margin: 0 auto;
 }
-<<<<<<< HEAD
 nav div i{
   background-color:rgba(256,256,256,.25);
   border-radius: 50%;
@@ -465,46 +418,7 @@ nav div i{
 nav p{
   color: white;
   margin: 0.5em;
-=======
-.row--sm {
-  display: grid;
-  width: 50vw;
-  min-width: 60rem;
-  max-width: 85rem;
-  margin: 0 auto;
->>>>>>> 30e8e069272d212a0e8c2a0f864bc1a3b29e46b1
-}
-.col-2 {
-  grid-template-columns: 1fr 1fr;
-}
 
-.col-3 {
-  grid-template-columns: repeat(3, 1fr);
-}
-
-.col-4 {
-  grid-template-columns: repeat(4, 1fr);
-}
-
-.col-5 {
-  grid-template-columns: repeat(5, 1fr);
-}
-
-.col-6 {
-  grid-template-columns: repeat(6, 1fr);
-  height: 100%;
-}
-
-.col-7 {
-  grid-template-columns: repeat(7, 1fr);
-}
-
-.col-8 {
-  grid-template-columns: repeat(8, 1fr);
-}
-
-.col-1-2 {
-  grid-template-columns: 1fr 2fr;
 }
 .row-2-1 {
   grid-template-rows: 2fr 1fr;
