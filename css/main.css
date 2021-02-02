@@ -16,7 +16,6 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
-
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
@@ -36,7 +35,6 @@ html {
   background: #b3d4fc;
   text-shadow: none;
 }
-
 /*
  * A better looking default horizontal rule
  */
@@ -200,8 +198,6 @@ textarea {
     height: 20em;
   }
 }
-
-
 footer .column{
     height: 10em;
 }
